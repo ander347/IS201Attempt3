@@ -19,10 +19,10 @@
 
 .test1 {
     top: 105px;
-    left: 15px;
+    left: 5px;
     
     bottom: 55px; 
-    
+    text-align: center; 
     
 }
 
